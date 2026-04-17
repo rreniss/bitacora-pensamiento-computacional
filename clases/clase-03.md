@@ -19,7 +19,7 @@ https://www.markdownguide.org/cheat-sheet/ aprendo markdown aqui
   - codigo enigma
   - matrix 1
   - pi: fe en el caos
-  - una mente brillante
+  - una mente brillante----> esta 
   - summer wars
   - her
   - yo robot
@@ -27,4 +27,18 @@ https://www.markdownguide.org/cheat-sheet/ aprendo markdown aqui
   - 2 cap de black mirror
   - ghst in the sheld
  
-  - no hay minimo ni maximo para el parrafo de la pelicula  
+  - no hay minimo ni maximo para el parrafo de la pelicula
+ 
+  ## encargo 17 de abril - comentario personal
+
+  Mi elección fue la película -Una mente brillante- por recomendación y en un inicio se percibe como una película con una historia seria y muy tradicional
+
+  de matemáticos, donde predominan los -egos- y la competencia por quién es más inteligente, en un contexto con un poco de -acción- también, en ciertas partes.
+
+  pero a medida que avanza, empieza a tornarse mucho más emotiva y sentimental, donde muestran que el personaje principial lidia con una enfermedad
+
+  que destruye por completo su vida.
+
+  Lo que más me gustó y destaco de la película es que eso no lo impidió de intentar mejorar su salud mental y salir adelante.
+
+  La película pasó de ser una -lucha de egos- a una lucha interna se destaca el amor, paciencia y perseverancia.
