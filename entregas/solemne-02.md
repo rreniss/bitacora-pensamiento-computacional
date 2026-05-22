@@ -1,19 +1,30 @@
-Plantilla para solemne-02  
+solemne-02  
 
 Integrantes del grupo
 
-(Nombre apellido) cuentaGithub
-(Nombre apellido) cuentaGithub
+(Renata Danyan Correa) rreniss
 Descripción del disco
 Portada de álbum xxxx yyyy
 
-(Nombre del álbum)
-Año del álbum
-Artista
+(Arrebol)
+2001
+Los Jaivas
 Tracklist
-1. Cancion 1
-2. Cancion 2
-3. Cancion 3
+1. Arrebol.
+2. Milonga Carcelaria.
+3. Alegria de mi amor.
+4. Todos Americanos.
+5. Por los niños del mundo.
+6. Libre Albedrío.
+7. Vamos por ancho camino.
+8. Chile
+9. Me encontré al diablo.
+10. Pololeo por computer.
+11. Amores de antes.
+12. Que suerte tengo.
+13. El recidente nacional.
+
+    
 Aspecto del álbum a desarrollar (premisa)
 Lorem ipsum blablabla
 
