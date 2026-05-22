@@ -10,6 +10,7 @@ Descripción del disco
 (Arrebol)
 2001
 Los Jaivas
+![álbum los jaivas](./img/ARREBOL.jpg)
 
 Tracklist
 1. Arrebol.
